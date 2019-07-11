@@ -1,0 +1,23 @@
+
+div.container {
+  width: 60em;
+  border: 1px solid gray;
+  background-color: rgb(250, 250, 250);
+}
+
+.picture {
+  background-image: url("./static/image/111.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
+
+nav {
+  padding: 0.125em;
+  background-color: red;
+}
+.modal-header {
+  background-color: rgb(224, 137, 137);
+}
+
+
